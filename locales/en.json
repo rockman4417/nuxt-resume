@@ -8,68 +8,62 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Chris",
+    "lastName": "Foy",
     "subHeadingText": [
-      "Software Enginneer",
-      "Full Stack Developer",
+      "Front-End Developer",
       "Code enthusiast!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
+    "city": "Lubbock, Texas",
+    "phoneNumber": "(806) 549-8241",
+    "email": "rockman4417@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/chris-foy123/",
+    "github": "https://github.com/rockman4417/",
     "myDescription": "Passionate web developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "collage": "Austin Coding Academy",
+        "name": "Full-Stack Developer",
+        "itemList": ["Web Development", "Data Structures and Algorithms"],
+        "startEndDate": "September 2020 - March 2021"
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "collage": "Boise State University",
+        "name": "General Studies",
+        "itemList": ["Psychology"],
+        "startEndDate": "August 2006 - January 2007"
       }
+      
     ]
   },
   "workExperiences": {
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "Junior FullStack Developer",
+        "companie": "Zollege",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Responsible for designing, developing and maintaining a group of applications used in the retail industry.",
+          "As part of a 4-man team, I help make technical decisions about which technologies used in each project and how the team will works.",
+          "Backend Developer: NodeJs | MYSQL | MongoDB | Firebase",
+          "Frontend Developer: ReactJs | ReactNative | Javascript",
+          "Graphic design (AdobeXD and Figma)."
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "March 2021 - Present"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
+        "position": "Alarm Technician",
+        "companie": "Vivint Smart Home",
         "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
+          "Responsible for managing an installation team and meeting deadlines on time",
+          "Provided great customer support, and walked customers through the process start to finish.  Very few cancellations",
           "Technical support.",
           "Improve business processes."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "April 2007 - June 2020"
       }
     ]
   },
@@ -77,7 +71,6 @@
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
       "devicon-javascript-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
@@ -85,17 +78,10 @@
       "devicon-nodejs-plain",
       "devicon-bootstrap-plain",
       "devicon-github-original",
-      "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
-      "devicon-linux-plain",
       "devicon-windows8-original",
-      "devicon-illustrator-plain",
       "devicon-photoshop-plain",
       "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
       "devicon-postgresql-plain"
     ],
     "workflow": "Workflow",
@@ -110,36 +96,31 @@
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
+    "firstBlock": "Apart from being a web developer, I enjoy most of my time video-gaming and boxing.  I'm a member at a local boxing club and train regularly",
     "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
   },
   "projects": {
-    "title": "Personal Projects 🦾🧠",
+    "title": "Projects 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "name": "Draftrr",
+        "description": "Draftrr is a writing app that gamifies the writing process for users on their first draft. ",
+        "image": "/images/DraftrrScreenshot.jpg",
+        "siteUrl": "https://draftrr.com/"
       },
       {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
+        "name": "Cha-Ching",
+        "description": "Cha Ching is an invoicing and pay tracking system for self-employed and independent contractors",
+        "image": "/images/Cha-Ching-Screenshot.jpg",
+        "siteUrl": "https://aca-capstone-app.web.app/"
       },
       {
-        "name": "Better Drive",
-        "description": "Better Drive is a free tool to analyze your Google Drive account. Google Drive is a powerful file storage and synchronization service, but sometimes you feel like you lose control of it. Keeping privacy concerns in mind, that many users have, we built this great tool to help you organize, clean, and leverage the use of your Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
+        "name": "Hero Builds",
+        "description": "Hero builds is a side project that shows popular builds for Dota 2",
+        "image": "/images/HeroBuildsScreenshot.jpg",
+        "siteUrl": "https://clever-poincare-46c084.netlify.app/"
       }
+      
     ]
   }
 }

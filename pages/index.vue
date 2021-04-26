@@ -5,7 +5,7 @@
       id="sideNav"
     >
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Resume Iván</span>
+        <span class="d-block d-lg-none">Chris Foy</span>
         <span class="d-none d-lg-block">
           <img
             class="img-fluid img-profile rounded-circle mx-auto mb-2"
@@ -80,7 +80,7 @@
               <DarkModeBtn />
             </div>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <div style="position:fixed; bottom:10px; right: 10px;z-index:1000;">
               <nuxt-link class="btn btn-light" :to="switchLocalePath('en')"
                 >EN</nuxt-link
@@ -89,7 +89,7 @@
                 >ES</nuxt-link
               >
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
     </nav>
@@ -112,7 +112,7 @@ export default {
   },
   head() {
     return {
-      title: "Iván Greve"
+      title: "Chris Foy"
     };
   },
   methods: {
