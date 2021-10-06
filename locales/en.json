@@ -43,6 +43,20 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
+        "position": "React Native Developer",
+        "companie": "Flint Avenue",
+        "responsabilities": [
+          "Team lead for a project called Equine Exchange.",
+          "Was responsible for maintaining the project architecture, managing the repo, rolling out releases and test builds.",
+          "Worked on new features, fixed bugs, and managed the development team to make sure requirements were met.",
+          "Designed search algorithms, subscriptions through in app purchases, and push notifications",
+          "Backend Technologies: NodeJs | Firebase | Firebase Cloud Functions",
+          "Frontend Technologies: ReactJs | ReactNative | Xcode | Android Studio",
+          "Release Platforms: App Store Connect | Google Play Console"
+        ],
+        "startEndDate": "May 2021 - Present"
+      },
+      {
         "position": "Junior FullStack Developer",
         "companie": "Zollege",
         "responsabilities": [
@@ -52,7 +66,7 @@
           "Frontend Developer: ReactJs | ReactNative | Javascript",
           "Graphic design (AdobeXD and Figma)."
         ],
-        "startEndDate": "March 2021 - Present"
+        "startEndDate": "March 2021 - May 2021"
       },
       {
         "position": "Alarm Technician",
@@ -96,12 +110,18 @@
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time video-gaming and boxing.  I'm a member at a local boxing club and train regularly",
+    "firstBlock": "Apart from developing, I enjoy most of my time video-gaming and boxing.  I'm a member at a local boxing club and train regularly",
     "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
   },
   "projects": {
     "title": "Projects 🦾🧠",
     "projectsInfo": [
+      {
+        "name": "Equine Exchange",
+        "description": "Equine Exchange is an app built in React Native, designed for buying and selling rodeo horses, and keeping up to date on rodeo events. ",
+        "image": "/images/DraftrrScreenshot.jpg",
+        "siteUrl": "https://apps.apple.com/us/app/equine-exchange/id1583419702"
+      },
       {
         "name": "Draftrr",
         "description": "Draftrr is a writing app that gamifies the writing process for users on their first draft. ",
